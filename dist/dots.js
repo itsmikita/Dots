@@ -1,5 +1,11 @@
 /**
+ * jQuery Dots
  *
+ * This plugin allows you to pure CSS3 animated loader on any element.
+ *
+ * Author: Mikita Stankevicz
+ * URL: https://github.com/itsmikita/Dots
+ * Version: 0.1
  */
 
 ;( function( $, window, document, undefined ) {
